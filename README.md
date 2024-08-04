@@ -9,3 +9,7 @@ I've built custom Terraform providers, front end React apps, web services, CLI t
 - 💬 Ask me about Python, Go, Terraform, AWS, Kubernetes, Docker.
 - 📫 How to reach me: traci.kamp@gmail.com
 - 😄 Pronouns: she/her
+
+---
+
+[![Traci's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlkamp&theme=ambient_gradient)](https://github.com/tlkamp/github-readme-stats)
