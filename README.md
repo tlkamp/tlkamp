@@ -1,4 +1,4 @@
-### Hi, I'm Traci 👋
+# Hi, I'm Traci 👋
 ![Static Badge](https://img.shields.io/badge/pronouns-she%2Fher-8A2BE2?style=flat) ![Static Badge](https://img.shields.io/badge/contact-email-EA4335?style=flat&logo=gmail&logoColor=%23EA4335&color=%23EA4335&link=mailto%3Atraci.kamp%40gmail.com)
 
 
